@@ -1,4 +1,4 @@
-# Dimsum Cantonese Corpus | Dimsum 粤语语料库
+# Dim Sum Cantonese Corpus | Dimsum 粤语语料库
 
 ![dim-sum-2](https://p.ipic.vip/imk9aa.png)
 
