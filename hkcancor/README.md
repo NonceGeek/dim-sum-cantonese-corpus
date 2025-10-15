@@ -1,6 +1,6 @@
 # Hong Kong Cantonese Corpus (HKCanCor) 香港粵語語料庫
 
-> **Soure:** https://github.com/fcbond/hkcancor
+> **Source:** https://github.com/fcbond/hkcancor
 
 These are the transcriptions of the Hong Kong Cantonese Corpus
 (HKCanCor) 香港粵語語料庫 created by Luke Kang Kwong <kkluke@ntu.edu.sg>.
